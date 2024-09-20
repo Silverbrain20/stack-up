@@ -1,1 +1,0 @@
-/workspace/stack-up/simple-http\ start/simple-http/target/debug/libsimple_http.rlib: /workspace/stack-up/simple-http\ start/simple-http/src/http/mod.rs /workspace/stack-up/simple-http\ start/simple-http/src/http/request.rs /workspace/stack-up/simple-http\ start/simple-http/src/http/response.rs /workspace/stack-up/simple-http\ start/simple-http/src/lib.rs
