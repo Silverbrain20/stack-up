@@ -8,7 +8,7 @@ import {
 	useAccount,
 } from "wagmi";
 import { deployedAddress } from "../contracts/deployed-contract";
-import type { CommentDetails, PostDetails } from "../types/posts/types";
+import type { CommentDetails, PostDetails } from "../types/posts/type";
 import { useWriteForumCreateComment } from "../contracts/generated";
 
 const CommentForm = ({ post }: { post: PostDetails }) => {
